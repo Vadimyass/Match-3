@@ -1,0 +1,170 @@
+Error Logs
+Blue
+Yellow
+Yellow
+None
+Yellow
+None
+Yellow
+None
+Yellow
+None
+Blue
+Yellow
+Blue
+Red
+Red
+Blue
+Red
+None
+Green
+Blue
+Yellow
+None
+Yellow
+Yellow
+Blue
+Green
+Green
+Red
+Green
+Green
+Blue
+Yellow
+Blue
+Green
+Red
+Blue
+None
+Red
+None
+Yellow
+Blue
+Yellow
+Yellow
+Yellow
+Blue
+None
+Green
+Blue
+Red
+Yellow
+None
+Yellow
+None
+Green
+Red
+None
+Yellow
+Red
+Green
+None
+Blue
+None
+Red
+None
+Green
+Yellow
+Green
+Yellow
+Blue
+Blue
+Red
+None
+Green
+Yellow
+None
+Red
+Yellow
+Yellow
+None
+None
+Before Gravity
+O O O X O O O O 
+X X X X O O O X 
+X X X X X X X X 
+X X X X X X X X 
+X X X O X X X X 
+X X X O X X X X 
+X X X O X X X X 
+X O O O X X X X 
+None
+Red
+After Gravity
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+Before Gravity
+X X X X X X X X 
+O O O X X X O X 
+X X X X X X O X 
+X X X X X X O X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+Green
+None
+None
+Blue
+Blue
+After Gravity
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+Before Gravity
+X X O X X X X X 
+X O O O X X X X 
+X X O X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+Yellow
+Red
+Blue
+Blue
+Red
+After Gravity
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+Before Gravity
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X O X X X X X X 
+X O X X X X X X 
+X O X X X X X X 
+X O X X X X X X 
+X O X X X X X X 
+Yellow
+Blue
+Green
+Red
+Blue
+After Gravity
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
+X X X X X X X X 
